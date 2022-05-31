@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
+	"github.com/pienaahj/UserDatabase/mocks/mock_UserDatabase"
 	"github.com/stretchr/testify/suite"
 )
 

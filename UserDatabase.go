@@ -32,7 +32,7 @@ var (
 		AuthSource: "testdb",
 	}
 	adminURI string = connectionStringAdmin
-	user2URI string = "192.168.0.148:27017/user2"
+	// user2URI string = "192.168.0.148:27017/user2"
 )
 
 type DatabaseHelper interface {
